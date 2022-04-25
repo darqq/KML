@@ -28,5 +28,11 @@
 			<href>https://raw.githubusercontent.com/darqq/KML/main/Выполненное.kml</href>
 		</Link>
 	</NetworkLink>
+	<NetworkLink>
+		<name>Бригады</name>
+		<Link>
+			<href>https://raw.githubusercontent.com/darqq/KML/main/Бригады.kml</href>
+		</Link>
+	</NetworkLink>
 </Folder>
 </kml>
