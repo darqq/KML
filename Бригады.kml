@@ -2,39 +2,17 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Бригады.kml</name>
-	<Style id="style2">
-		<IconStyle>
-			<hotSpot x="0" y="0" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>5.99</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>0effffff</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="style3">
+	<StyleMap id="style30">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style30</styleUrl>
+			<styleUrl>#style3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#style31</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style30">
-		<IconStyle>
-			<hotSpot x="0" y="0" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>3.59</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>0effffff</color>
-		</PolyStyle>
+	<Style id="failed">
 	</Style>
 	<Style id="style31">
 		<IconStyle>
@@ -60,14 +38,64 @@
 			<color>0effffff</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="style21">
+	<Style id="failed0">
+	</Style>
+	<Style id="failed1">
+	</Style>
+	<Style id="style21">
+		<IconStyle>
+			<hotSpot x="0" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5.99</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>0effffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style2</styleUrl>
+			<styleUrl>#failed</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed3">
+	</Style>
+	<Style id="style3">
+		<IconStyle>
+			<hotSpot x="0" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3.59</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>0effffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style2">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder>
@@ -76,7 +104,7 @@
 		<Placemark>
 			<name>Бригада Веденеев Рыбаков</name>
 			<open>1</open>
-			<styleUrl>#style5</styleUrl>
+			<styleUrl>#failed2</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -89,9 +117,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Бригада Ярин Дмитриев</name>
+			<name>Бригада Шишмолина, Дмитриев, Елена</name>
 			<open>1</open>
-			<styleUrl>#style4</styleUrl>
+			<styleUrl>#failed4</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -104,9 +132,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Бригада Александрова</name>
+			<name>Бригада Александров, Томаленок, Шпинев, Ярин</name>
 			<open>1</open>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#style30</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -119,9 +147,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Бригада Ревы</name>
+			<name>Бригада Рева, Немов, Смоляков</name>
 			<open>1</open>
-			<styleUrl>#style21</styleUrl>
+			<styleUrl>#style2</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
