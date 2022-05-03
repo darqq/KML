@@ -2,17 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>22.3.015G.LO.LugaSlantsyTikhvin.kml</name>
-	<StyleMap id="stylemap_id5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style18</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style7">
+	<Style id="style19">
 		<LineStyle>
 			<color>ffc000c0</color>
 			<width>2</width>
@@ -21,62 +11,7 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="style23">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style22">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>0.9</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>cc0000aa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="style15">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style3">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style31</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style31">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style25">
+	<Style id="style9">
 		<LineStyle>
 			<color>ff00b0b0</color>
 			<width>0.9</width>
@@ -85,36 +20,7 @@
 			<color>ff00ffff</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="stylemap_id16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style25</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style29">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>0.9</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>cc0000aa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id130">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style24</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style20">
+	<Style id="style8">
 		<LineStyle>
 			<color>ffc000c0</color>
 			<width>2</width>
@@ -123,106 +29,13 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="style34">
+	<Style id="style">
 		<LineStyle>
 			<color>ffc000c0</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style4">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style21</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style27">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style2">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style32">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style30">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style6">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="transRosePoly0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#transRosePoly1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#transRosePoly</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style28</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style16">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>0.9</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>cc0000aa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="style0">
@@ -234,16 +47,24 @@
 			<color>cc0000aa</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="stylemap_id7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style30</styleUrl>
-		</Pair>
-	</StyleMap>
+	<Style id="style17">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style10">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
 	<StyleMap id="stylemap_id13">
 		<Pair>
 			<key>normal</key>
@@ -254,168 +75,7 @@
 			<styleUrl>#style26</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style10">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style14">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style14</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style19</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style21">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style1">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style11">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id15">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style33</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style29</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style9">
-		<LineStyle>
-			<color>ff00b0b0</color>
-			<width>0.9</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>ff00ffff</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style13">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="style5">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style23</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style34</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style27</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id14">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style16</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style22</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style12</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style17">
+	<Style id="style31">
 		<LineStyle>
 			<color>ffc000c0</color>
 			<width>2</width>
@@ -434,15 +94,6 @@
 			<styleUrl>#style13</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style19">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Style id="style12">
 		<LineStyle>
 			<color>ffc000c0</color>
@@ -452,6 +103,225 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
+	<Style id="style30">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style15">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style34">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style14">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style20">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style32">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style3">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style13">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style29">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0.9</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc0000aa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style2">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style27">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style33">
 		<LineStyle>
 			<color>ff000000</color>
@@ -461,7 +331,117 @@
 			<color>cc0000aa</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="stylemap_id14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style5">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style28">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style22">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0.9</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc0000aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style6">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style7">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style26">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style21">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style4">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style18">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style11">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style23">
 		<LineStyle>
 			<color>ffc000c0</color>
 			<width>2</width>
@@ -479,203 +459,53 @@
 			<color>cc0000aa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style8">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="transRosePoly">
-		<BalloonStyle>
-			<text><![CDATA[<html><head>
-<style type="text/css">
-.hidden { display: none; }
-.unhidden { display: block; }
-</style> 
-<script type="text/javascript">
-function unhide(divID) {
-    var item = document.getElementById(divID);
-    if (item) {
-        if (item.className=='hidden') {
-           item.className='unhidden';
-           document.getElementById('linktext').innerHTML = 'Скрыть';
-           document.getElementById('appversion').value = navigator.appVersion;
-        } else {
-           item.className='hidden';
-           document.getElementById('linktext').innerHTML = 'Сообщить об ошибке';
-        }
-    }
-    document.getElementById('dummy').src = "about:blank";
-}
-var myTimer;
-var nTick;
-function fireTimer() {
-   if (nTick++ > 10) {
-       document.getElementById('status').innerHTML = '<font color=red><b>Отправка не удалась.</b></font>';
-       clearInterval(myTimer);
-   } else {
-       dots = '';
-       for (i=0; i<(nTick%3+1); i++) dots += '.';
-       document.getElementById('status').innerHTML = '<font color=red>Отправка сообщения '+dots+'</font>';
-   }
-}
-function chkForm() {
-   c = document.getElementById('comment').value;
-   if (c.indexOf('Сообщение об ошибке или комментарий') >= 0 || c.length < 15) {
-       document.getElementById('status').innerHTML = '<font color=red>Пожалуйста, введите сообщение.</font>';
-       return false;
-   }
-   myTimer = setInterval('fireTimer()', 1000);
-   nTick = 0;
-   return true;
-}
-</script>
-</head>
-<body>
-<b>NOTAM $[name]</b><br><br>$[description]<hr>
-<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
-<td><a href="javascript:unhide('frm');"><div id="linktext">Сообщить об ошибке</div></a></td>
-<td align=right><a href="#$[id];balloonFlyto">Приблизить</a></td>
-</tr></table>
-<div id="frm" class="hidden">
-<form method="POST" action="http://aviamap.nonename.com/ci.php/extra/addComment" >
-<input type='hidden' name='id' value='$[id]'>
-<input type='hidden' name='name' value='$[name]'>
-<input type='hidden' name='kmzdate' value='04/25/2022 20:35:35'>
-<input type='hidden' id='appversion' name='appversion' value=''>
-<br>Если Вы обнаружили какую-либо неточность в данном элементе или хотите задать вопрос, заполните форму ниже и нажмите ОК.<br>
-Мы с Вами свяжемся, если Вы укажете контактную информацию.<br>
-<br><b>Ваше имя:</b><br>
-<input type='text' name='username' size=40 /><br>
-<b>Как с Вами связаться:</b><br>
-<input type='text' name='contact' value='email или телефон' size=40 /><br>
-<b>Сообщение:</b><br>
-<textarea name='comment' id='comment' rows=5 cols=50>Сообщение об ошибке или комментарий...</textarea>
-<br><div id='status'></div><br>
-<div align=center><input type="submit" value="OK" onClick='return chkForm()' /></div>
-</form>
-</div>
-<iframe style="display: none" id="dummy" src="about:blank"></iframe>
-</body></html>]]></text>
-		</BalloonStyle>
-		<LineStyle>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>200000aa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="style28">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="transRosePoly1">
-		<BalloonStyle>
-			<text><![CDATA[<html><head>
-<style type="text/css">
-.hidden { display: none; }
-.unhidden { display: block; }
-</style> 
-<script type="text/javascript">
-function unhide(divID) {
-    var item = document.getElementById(divID);
-    if (item) {
-        if (item.className=='hidden') {
-           item.className='unhidden';
-           document.getElementById('linktext').innerHTML = 'Скрыть';
-           document.getElementById('appversion').value = navigator.appVersion;
-        } else {
-           item.className='hidden';
-           document.getElementById('linktext').innerHTML = 'Сообщить об ошибке';
-        }
-    }
-    document.getElementById('dummy').src = "about:blank";
-}
-var myTimer;
-var nTick;
-function fireTimer() {
-   if (nTick++ > 10) {
-       document.getElementById('status').innerHTML = '<font color=red><b>Отправка не удалась.</b></font>';
-       clearInterval(myTimer);
-   } else {
-       dots = '';
-       for (i=0; i<(nTick%3+1); i++) dots += '.';
-       document.getElementById('status').innerHTML = '<font color=red>Отправка сообщения '+dots+'</font>';
-   }
-}
-function chkForm() {
-   c = document.getElementById('comment').value;
-   if (c.indexOf('Сообщение об ошибке или комментарий') >= 0 || c.length < 15) {
-       document.getElementById('status').innerHTML = '<font color=red>Пожалуйста, введите сообщение.</font>';
-       return false;
-   }
-   myTimer = setInterval('fireTimer()', 1000);
-   nTick = 0;
-   return true;
-}
-</script>
-</head>
-<body>
-<b>NOTAM $[name]</b><br><br>$[description]<hr>
-<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
-<td><a href="javascript:unhide('frm');"><div id="linktext">Сообщить об ошибке</div></a></td>
-<td align=right><a href="#$[id];balloonFlyto">Приблизить</a></td>
-</tr></table>
-<div id="frm" class="hidden">
-<form method="POST" action="http://aviamap.nonename.com/ci.php/extra/addComment" >
-<input type='hidden' name='id' value='$[id]'>
-<input type='hidden' name='name' value='$[name]'>
-<input type='hidden' name='kmzdate' value='04/25/2022 20:35:35'>
-<input type='hidden' id='appversion' name='appversion' value=''>
-<br>Если Вы обнаружили какую-либо неточность в данном элементе или хотите задать вопрос, заполните форму ниже и нажмите ОК.<br>
-Мы с Вами свяжемся, если Вы укажете контактную информацию.<br>
-<br><b>Ваше имя:</b><br>
-<input type='text' name='username' size=40 /><br>
-<b>Как с Вами связаться:</b><br>
-<input type='text' name='contact' value='email или телефон' size=40 /><br>
-<b>Сообщение:</b><br>
-<textarea name='comment' id='comment' rows=5 cols=50>Сообщение об ошибке или комментарий...</textarea>
-<br><div id='status'></div><br>
-<div align=center><input type="submit" value="OK" onClick='return chkForm()' /></div>
-</form>
-</div>
-<iframe style="display: none" id="dummy" src="about:blank"></iframe>
-</body></html>]]></text>
-		</BalloonStyle>
-		<LineStyle>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>200000aa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="style26">
-		<LineStyle>
-			<color>ffc000c0</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id11">
+	<StyleMap id="stylemap_id5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style10</styleUrl>
+			<styleUrl>#style18</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#style15</styleUrl>
+			<styleUrl>#style8</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="style16">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0.9</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc0000aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>ffc000c0</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style25">
+		<LineStyle>
+			<color>ff00b0b0</color>
+			<width>0.9</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
 	<Folder>
 		<name>22.3.015G.LO.LugaSlantsyTikhvin</name>
 		<open>1</open>
@@ -685,8 +515,7 @@ function chkForm() {
 <p>Высота полета, м:<b> RX1 – до 685 м, RX1RM2 - до 900 м</b></p>
 <p>«Задать отступ»: <b>2</b></p>
 <p>Продольное перекрытие: <b>80%</b></p>
-<p>Поперечное перекрытие:<b> 60%</b></p>
-]]></description>
+<p>Поперечное перекрытие:<b> 60%</b></p>]]></description>
 			<styleUrl>#stylemap_id16</styleUrl>
 			<MultiGeometry>
 				<Polygon>
@@ -7500,16 +7329,6 @@ function chkForm() {
 		</Folder>
 		<Document>
 			<name>Контрольные точки</name>
-			<StyleMap id="style210">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#style212</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#style211</styleUrl>
-				</Pair>
-			</StyleMap>
 			<Style id="style212">
 				<IconStyle>
 					<color>ffff370b</color>
@@ -7540,6 +7359,16 @@ function chkForm() {
 					<color>0effffff</color>
 				</PolyStyle>
 			</Style>
+			<StyleMap id="style210">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#style212</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#style211</styleUrl>
+				</Pair>
+			</StyleMap>
 			<Placemark>
 				<name>001</name>
 				<description>разметка</description>
@@ -8313,55 +8142,7 @@ function chkForm() {
 		</Document>
 		<Folder>
 			<name>Запретные зоны - АФС не выполнять</name>
-			<Placemark id="Q2836_22">
-				<name>Q2836/22</name>
-				<open>1</open>
-				<description><![CDATA[<b>Тип NOTAM:</b> Зона временного ограничения полетов, Включено<br><b>Местоположение:</b> ULLL (Санкт-Петербург РПИ
-)<br><b>Текст:</b> ЗАПРЕЩЕНО ИСПОЛЬЗОВАНИЕ ВОЗДУШНОГО ПРОСТРАНСТВА В РАЙОНЕ, ОГРАНИ4ЕННОМ ОКРУЖНОСТЬЮ РАДИУСОМ 120 КМ С ЦЕНТРОМ В Г.Т. 595600С 0301900В ПО ТЕРРИТОРИИ РОССИЙСКОЙ ФЕДЕРАЦИИ. ЗАПРЕТ НЕ РАСПРОСТРАНЯЕТСЯ НА ВС: - ВЫПОЛНЯЮЩИЕ РЕЙСЫ ЛИТЕРА ,,А,, ЛИТЕРА ,,К,, И ИХ ОБЕСПЕ4ЕНИЯ, - ВЫПОЛНЯЮЩИЕ МЕЖДУНАРОДНЫЕ И ВНУТРЕННИЕ ПОЛЕТЫ ПО МАРШРУТАМ   ОВД СОГЛАСНО РАСПИСАНИЮ РЕГУЛЯРНЫХ ВОЗДУШНЫХ ПЕРЕВОЗОК, А ТАКЖЕ   ПРИЕМА И ВЫПУСКА ВС СОГЛАСНО РАСПИСАНИЯ РЕГУЛЯРНЫХ ВОЗДУШНЫХ   ПЕРЕВОЗОК С АЭРОДРОМОВ ГА, - ВЫПОЛНЯЮЩИЕ ПОЛЕТЫ В ИНТЕРЕСАХ МИНОБОРОНЫ РОССИИ, ФСБ И ФСО РОССИИ,   ВЫДЕЛЕННЫХ ДЛЯ ОБЕСПЕ4ЕНИЯ БЕЗОПАСНОСТИ ОБЬЕКТОВ ГОСУДАРСТВЕННОЙ   ОХРАНЫ И ПОИСКОВО-СПАСАТЕЛЬНОГО ОБЕСПЕ4ЕНИЯ, - СПЕЦИАЛЬНО ВЫДЕЛЕННЫЕ ДЛЯ ПРОВЕДЕНИЯ РАБОТ ПО ОКАЗАНИЮ ПОМОЩИ   ПРИ 4РЕЗВЫ4АЙНЫХ СИТУАЦИЯХ, ПРИРОДНОГО И ТЕХНОГЕННОГО ХАРАКТЕРА   И ДРУГИХ ЗАДА4 ПО СОГЛАСОВАНИЮ С ФСО РОССИИ, А ТАКЖЕ ВС ВНЕ   РАСПИСАНИЯ РЕГУЛЯРНЫХ ВОЗДУШНЫХ ПЕРЕВОЗОК СОГЛАСОВАННЫХ В   КАЖДОМ ОТДЕЛЬНОМ СЛУ4АЕ С ФСО РОССИИ В ГОРОДЕ САНКТ-ПЕТЕРБУРГЕ.<br><br><b>Вертикальные границы от:</b> GND <b>до:</b> FL270<br><b>Период действия : <font color=green>26/04/2022 15:00 UTC - 28/04/2022 21:00 UTC</font></b><br><b>Получен:</b> 22/04/2022 16:55 UTC<br><br><font size=-1>Исходный текст: $[rawnotam]</font>]]></description>
-				<styleUrl>#transRosePoly0</styleUrl>
-				<ExtendedData>
-					<Data name="alts">
-						<value>GND - FL270</value>
-					</Data>
-					<Data name="period">
-						<value>26/04/2022 15:00 - 28/04/2022 21:00</value>
-					</Data>
-					<Data name="rawnotam">
-						<value>(Я2836/22 НОТАМН
-Щ)УЛЛЛ/ЩРТЦА/ИЖ/БО/В/000/270/5956С03019В065
-А)УЛЛЛ Б)2204261500 Ц)2204282100
-Е)ЗАПРЕЩЕНО ИСПОЛЬЗОВАНИЕ ВОЗДУШНОГО ПРОСТРАНСТВА В РАЙОНЕ,
-ОГРАНИ4ЕННОМ ОКРУЖНОСТЬЮ РАДИУСОМ 120 КМ
-С ЦЕНТРОМ В Г.Т. 595600С 0301900В ПО ТЕРРИТОРИИ РОССИЙСКОЙ ФЕДЕРАЦИИ.
-ЗАПРЕТ НЕ РАСПРОСТРАНЯЕТСЯ НА ВС:
-- ВЫПОЛНЯЮЩИЕ РЕЙСЫ ЛИТЕРА ,,А,, ЛИТЕРА ,,К,, И ИХ ОБЕСПЕ4ЕНИЯ,
-- ВЫПОЛНЯЮЩИЕ МЕЖДУНАРОДНЫЕ И ВНУТРЕННИЕ ПОЛЕТЫ ПО МАРШРУТАМ
-  ОВД СОГЛАСНО РАСПИСАНИЮ РЕГУЛЯРНЫХ ВОЗДУШНЫХ ПЕРЕВОЗОК, А ТАКЖЕ
-  ПРИЕМА И ВЫПУСКА ВС СОГЛАСНО РАСПИСАНИЯ РЕГУЛЯРНЫХ ВОЗДУШНЫХ
-  ПЕРЕВОЗОК С АЭРОДРОМОВ ГА,
-- ВЫПОЛНЯЮЩИЕ ПОЛЕТЫ В ИНТЕРЕСАХ МИНОБОРОНЫ РОССИИ, ФСБ И ФСО РОССИИ,
-  ВЫДЕЛЕННЫХ ДЛЯ ОБЕСПЕ4ЕНИЯ БЕЗОПАСНОСТИ ОБЬЕКТОВ ГОСУДАРСТВЕННОЙ
-  ОХРАНЫ И ПОИСКОВО-СПАСАТЕЛЬНОГО ОБЕСПЕ4ЕНИЯ,
-- СПЕЦИАЛЬНО ВЫДЕЛЕННЫЕ ДЛЯ ПРОВЕДЕНИЯ РАБОТ ПО ОКАЗАНИЮ ПОМОЩИ
-  ПРИ 4РЕЗВЫ4АЙНЫХ СИТУАЦИЯХ, ПРИРОДНОГО И ТЕХНОГЕННОГО ХАРАКТЕРА
-  И ДРУГИХ ЗАДА4 ПО СОГЛАСОВАНИЮ С ФСО РОССИИ, А ТАКЖЕ ВС ВНЕ
-  РАСПИСАНИЯ РЕГУЛЯРНЫХ ВОЗДУШНЫХ ПЕРЕВОЗОК СОГЛАСОВАННЫХ В
-  КАЖДОМ ОТДЕЛЬНОМ СЛУ4АЕ С ФСО РОССИИ В ГОРОДЕ САНКТ-ПЕТЕРБУРГЕ.
-Ф)ПОВЕРХНОСТЬ  Г)ЭШ270)</value>
-					</Data>
-				</ExtendedData>
-				<Polygon>
-					<extrude>1</extrude>
-					<altitudeMode>absolute</altitudeMode>
-					<outerBoundaryIs>
-						<LinearRing>
-							<coordinates>
-								30.31667,61.01494,8229.59998749101 30.08341,61.00881,8229.59998749101 29.85298,60.99051,8229.59998749101 29.62814,60.96026,8229.59998749101 29.41158,60.91841000000001,8229.59998749101 29.20587,60.86548,8229.59998749101 29.0134,60.80209,8229.59998749101 28.83638,60.72901,8229.59998749101 28.67678,60.64709,8229.59998749101 28.53634,60.55729,8229.59998749101 28.41652,60.46067,8229.59998749101 28.31851,60.35833,8229.59998749101 28.24322,60.25144000000001,8229.59998749101 28.19129,60.14122,8229.59998749101 28.16305,60.02889,8229.59998749101 28.15857,59.9157,8229.59998749101 28.17767,59.8029,8229.59998749101 28.21989,59.69171,8229.59998749101 28.28457,59.58333,8229.59998749101 28.37079,59.4789,8229.59998749101 28.47745,59.37954,8229.59998749101 28.60327,59.28628,8229.59998749101 28.74679,59.20009,8229.59998749101 28.90641,59.12186,8229.59998749101 29.08039,59.05238,8229.59998749101 29.26688,58.99236,8229.59998749101 29.46395,58.94241,8229.59998749101 29.66956,58.90304,8229.59998749101 29.88165,58.87463,8229.59998749101 30.09807,58.85747,8229.59998749101 30.31667,58.85173,8229.59998749101 30.53526,58.85747,8229.59998749101 30.75169,58.87463,8229.59998749101 30.96377,58.90304,8229.59998749101 31.16939,58.94241,8229.59998749101 31.36645,58.99236,8229.59998749101 31.55295,59.05238,8229.59998749101 31.72693,59.12186,8229.59998749101 31.88654,59.20009,8229.59998749101 32.03006,59.28628,8229.59998749101 32.15588,59.37954,8229.59998749101 32.26255,59.4789,8229.59998749101 32.34877,59.58333,8229.59998749101 32.41344,59.69171,8229.59998749101 32.45567,59.8029,8229.59998749101 32.47476,59.9157,8229.59998749101 32.47029,60.02889,8229.59998749101 32.44204,60.14122,8229.59998749101 32.39011,60.25144000000001,8229.59998749101 32.31482,60.35833,8229.59998749101 32.21682,60.46067,8229.59998749101 32.09699,60.55729,8229.59998749101 31.95655,60.64709,8229.59998749101 31.79695,60.72901,8229.59998749101 31.61993,60.80209,8229.59998749101 31.42746,60.86548,8229.59998749101 31.22175,60.91841000000001,8229.59998749101 31.00519,60.96026,8229.59998749101 30.78035,60.99051,8229.59998749101 30.54992,61.00881,8229.59998749101 30.31667,61.01494,8229.59998749101 30.31667,61.01494,8229.59998749101 
-							</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
+			<open>1</open>
 			<Placemark>
 				<name>Запретная зона</name>
 				<styleUrl>#stylemap_id15</styleUrl>
